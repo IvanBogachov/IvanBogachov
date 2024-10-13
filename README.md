@@ -28,6 +28,8 @@ I’m a passionate Frontend Developer who enjoys turning complex challenges into
 <a href="https://www.figma.com/community/" target="_blank"><img style="margin: 10px" src="./img/frontend/figma.svg" alt="Figma" height="40" /></a>
 </div>
 
+</td></tr></table>
+
 <div align="right">
 
 [<img scroll-behavior: smooth src="./img/go-up/up-strange.png" height="50" alt="Go up the page button" title="Go up the page"/>](#top)
