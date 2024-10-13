@@ -8,7 +8,7 @@ I’m a passionate Frontend Developer who enjoys turning complex challenges into
 
 ## <span style="color:#e0234e;">My Skill Set</span>
 
-<table><tr><td valign="top" width="33%" align="center">
+<table align="center"><tr><td valign="top" width="33%" align="center">
 
 #### <div style="color: #41b883; margin-bottom: 10px;" align="center">Front-end</div>
 
