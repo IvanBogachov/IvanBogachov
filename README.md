@@ -16,6 +16,9 @@ I’m a passionate Frontend Developer who enjoys turning complex challenges into
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./img/frontend/html5.svg" alt="HTML5" height="40" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./img/frontend/css3.svg" alt="CSS3" height="40" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./img/frontend/javascript.svg" alt="JavaScript" height="40" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="./img/frontend/react.svg" alt="React" height="40" /></a>
+<a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="./img/frontend/react-native.svg" alt="React Native" height="40" /></a>
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="./img/frontend/redux.svg" alt="Redux" height="40" /></a>
 </div>
 
 </td><td valign="top" width="33%" align="center">
