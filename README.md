@@ -1,6 +1,6 @@
 ﻿<a id="top"></a>
 
-# <div align="center">🖐 Hello, I'm Ivan Bohachev</div>
+# <div align="center">🖐 Hello, I'm Ivan Bohachov</div>
 
 ### <div align="center">Frontend developer | HTML5, CSS3, JavaScript, React |</div>
 
