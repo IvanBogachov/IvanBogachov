@@ -38,6 +38,7 @@ I’m a passionate Frontend Developer who enjoys turning complex challenges into
 
 <div align="center">
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="./img/devops/tools/github.svg" alt="Git" height="40" /></a>
+<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="./img/devops/tools/webpack.svg" alt="Webpack" height="40" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="./img/devops/tools/vscode.svg" alt="VS Code" height="40" /></a>
 <a href="https://www.figma.com/community/" target="_blank"><img style="margin: 10px" src="./img/frontend/figma.svg" alt="Figma" height="40" /></a>
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="./img/frontend/postman.svg" alt="Postman" height="40" /></a>
